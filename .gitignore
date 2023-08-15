@@ -1,0 +1,8 @@
+example.xml
+output.xml
+readme.txt
+PlexGet.log
+data
+venv
+__pycache__
+.DS_Store
