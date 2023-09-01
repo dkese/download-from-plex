@@ -9,6 +9,11 @@
 <p align="center">
   Visit the website: <a href="http://download-from-plex.duckdns.org">download-from-plex.duckdns.org</a>
 </p>
+
+<p align="center">
+  <img src="src/img/search.png"  title="Download">
+</p>
+
 <h2 align="left">About</h2>
 
 
@@ -19,7 +24,7 @@ Features
 
 To start using Download from Plex, follow these simple steps:
 
-    Visit the Website: Open your web browser and go to download-from-plex.duckdns.org.
+    Visit the Website: Open your web browser and go to https://download-from-plex.duckdns.org.
 
     Login: Log in using your Plex account credentials.
 
